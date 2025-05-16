@@ -1,3 +1,5 @@
+I am here!
+
 # Introduction to Git
 
 This hands-on lab is designed to assess your understanding of the fundamental Git concepts of branching, committing, and merging. You are free to complete this lab using any environment.
