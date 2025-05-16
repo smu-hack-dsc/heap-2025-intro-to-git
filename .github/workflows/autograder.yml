@@ -1,4 +1,4 @@
-name: autograders
+name: autograder
 on:
   push:
     branches: [main]
