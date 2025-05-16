@@ -8,7 +8,7 @@ To successfully complete this lab, please follow these steps:
 
 1. Create a new branch: Create a branch with your name (e.g., git checkout -b your-name).
 
-2. Make changes and commit: Make a change to any file in this repository (or create a new one).  Commit your changes to your branch.
+2. Make changes and commit: Make a change to any file in this repository (or create a new one).  Commit your changes to your branch. (making changes)
 
 3. Merge your branch: Merge your branch into the main branch.
 
